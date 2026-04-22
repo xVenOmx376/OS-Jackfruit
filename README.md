@@ -4,6 +4,8 @@
 
 * Name : KRISH YADAV
 * SRN : PES1UG24CS234
+* Name : KAUSHIK J
+* SRN : PES1UG24CS223
 
 ---
 
